@@ -1,6 +1,34 @@
 <br clear="both">
-<h2 align="left">👋 Hi, I’m Sarkhan Rustamov<br>Front-End Developer | Cybersecurity Enthusiast | Tech Mentor <br><br> </h2> <h4 align="left">I specialize in building intuitive and responsive user interfaces using HTML, CSS, JavaScript, and React JS. I’m also passionate about cybersecurity, big data analysis, and helping others grow as developers. <br><br> <h2 align="left">🔭 Current Projects  </h2> <br> Developing cybersecurity solutions and big data analysis platforms <br> Mentoring junior developers in web technologies <br> <br> <h2 align="left">🤝 Open to Collaborate On  </h2> <br> Front-end development & UI/UX design <br> Open-source JavaScript/React projects <br><br> <h2 align="left">⚡ Fun Fact </h2> <br>I love mentoring new developers and exploring emerging tech trends.<br><br>Feel free to connect or explore my repos — let’s build smarter, safer tech together! 🚀</h4>
+<h2 align="left">👋 Hi, I’m Sarkhan Rustamov<br>Front-End Developer | Cybersecurity Enthusiast | Tech Mentor <br><br> </h2> <h4 align="left">I specialize in building intuitive and responsive user interfaces using HTML, CSS, JavaScript, and React JS. I’m also passionate about cybersecurity, big data analysis, and helping others grow as developers. <br><br> <table>
+  <tr>
+    <td valign="top" width="33%" style="border-right: 1px solid lightgray; padding-right: 15px;">
 
+### 🔭 Current Projects  
+- Developing cybersecurity solutions  
+- Big data analysis platforms  
+- Mentoring junior developers  
+
+   </td>
+   <td valign="top" width="33%" style="border-right: 1px solid lightgray; padding: 0 15px;">
+
+### 🤝 Open to Collaborate On  
+- Front-end development  
+- UI/UX design  
+- Open-source React/JavaScript projects  
+
+   </td>
+   <td valign="top" width="33%" style="padding-left: 15px;">
+
+### ⚡ Fun Fact  
+I love mentoring new developers and  
+exploring emerging tech trends.  
+
+Feel free to connect or explore my repos —  
+let’s build smarter, safer tech together! 🚀
+
+   </td>
+  </tr>
+</table>
 ###
 
 <div align="center">
